@@ -4,3 +4,7 @@ jenv global 11.0
 pnpm i -g pnpm@8.6
 
 sencha v7.2.0.84
+
+Install node 18 and activate it via .zshrc
+
+export PATH="/opt/homebrew/opt/node@18/bin:$PATH"
